@@ -1,0 +1,5 @@
+rootProject.name = 'agenda-virtual'
+
+include 'agenda-virtual-sharedlib'
+include 'agenda-virtual-web'
+
